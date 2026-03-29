@@ -1,9 +1,4 @@
-flask-heroku
-flask_cors
-pandas
-requests
-gunicorn
-whitenoise
-bs4
-lxml
-jsonify
+Flask==3.0.3
+pywasm==1.2.2
+httpx[http2]==0.27.2
+tqdm==4.66.5
