@@ -1,1 +1,1 @@
-web: gunicorn apinepse.index:app
+web: gunicorn apinepse.wsgi:application
