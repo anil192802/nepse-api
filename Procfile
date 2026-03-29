@@ -1,1 +1,1 @@
-web: gunicorn apinepse.wsgi:application --log-file -
+web: gunicorn apinepse.index:app
